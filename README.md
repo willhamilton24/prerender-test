@@ -1,5 +1,7 @@
 # README
 
+![Concept](https://img.shields.io/badge/Concept-F-red) ![Effort to Cashflow](https://img.shields.io/badge/Effort_to_Cashflow-95%2F100-red)
+
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
 > **Prerequisites**
@@ -120,3 +122,14 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 
 - Stay updated: read [Forum announcements](https://community.redwoodjs.com/c/announcements/5), follow us on [Twitter](https://twitter.com/redwoodjs), and subscribe to the [newsletter](https://redwoodjs.com/newsletter)
 - [Learn how to contribute](https://redwoodjs.com/docs/contributing)
+
+## 💰 Path to Revenue
+This is a stock RedwoodJS tutorial scaffold used to test prerendering — there is no product here to monetize; any revenue path means building an actual application on top of it.
+
+### Release TODOs
+- [ ] Decide on an actual product idea; the current repo is only the Redwood tutorial Post scaffold plus a prerender TestPage
+- [ ] Replace the scaffold CRUD and default README with real application features and docs
+- [ ] Add authentication (Redwood dbAuth or a provider) — currently only generated directive stubs exist
+- [ ] Deploy somewhere real (Netlify/Vercel/Render) with a production Postgres database
+- [ ] Add payments (Stripe) once a sellable feature exists
+- [ ] Alternatively: archive this repo and keep it as a reference experiment
